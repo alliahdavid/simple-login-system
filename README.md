@@ -38,7 +38,7 @@ You’ll be prompted to enter a username and password.
 Successful login displays:
 
 ```
-Access Granted
+Access Granted.
 ```
 
 Otherwise:
