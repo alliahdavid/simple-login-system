@@ -55,7 +55,7 @@ If you encounter issues:
 
 ## Authors
 
-- Your Name – [@alliahdavid](https://github.com/alliahdavid)
+-[@alliahdavid](https://github.com/alliahdavid)
 
 ## Version History
 
