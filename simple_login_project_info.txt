@@ -1,0 +1,3 @@
+This Python simple login system was originally created as an assignment
+on the 2nd of September, 2025. It was later expanded into a mini project
+and uploaded to GitHub as part of my portfolio.
